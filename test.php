@@ -1,4 +1,1 @@
-
-    <?php
-        echo "ทดสอบการทำงานผ่านหน้า Web";
-    ?>
+<?php echo "I am a bot";
